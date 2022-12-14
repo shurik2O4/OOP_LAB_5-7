@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Clunk",
+    "Age": 1.6,
+    "Id": 1,
+    "Gender": 0,
+    "Type": 5
+  },
+  {
+    "Name": "Tux",
+    "Age": 1.7,
+    "Id": 2,
+    "Gender": 0,
+    "Type": 6
+  },
+  {
+    "Name": "Jellie",
+    "Age": 1.4,
+    "Id": 3,
+    "Gender": 1,
+    "Type": 1
+  }
+]
